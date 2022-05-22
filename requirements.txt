@@ -1,0 +1,4 @@
+paddle  2.2.2
+fire
+matplotlib
+tqdm
