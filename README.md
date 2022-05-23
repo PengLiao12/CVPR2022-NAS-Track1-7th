@@ -11,11 +11,14 @@ The official website of the competition is: [CVPR2022-NAS-Track1](https://aistud
 
 ./data stores files containing 45,000 model codes, which are officially provided.
 
+./paddleslim/nas/ofa/resofa.py  add the function to activate the subnet according to the code.
+
 The data set is [imageNet2012](https://image-net.org/).
 ```
 ./checkpoints
 ./data
 ./hnas
+./paddleslim/nas/ofa/resofa.py
 model.py
 sampling.py
 train_supernet.py
