@@ -1,6 +1,6 @@
 
 
-# CVPR2022-NAS-Track1-10th
+# CVPR2022-NAS-Track1-7th
 
 This is the code to participate in CVPR2022 NAS Track1.
 
